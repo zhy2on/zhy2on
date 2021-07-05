@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhy2on&theme=dark&show_icons=true)
-
+<!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhy2on&repo=42cursus&theme=dark)](https://github.com/zhy2on/42cursus)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhy2on&repo=42cursus_md&theme=dark)](https://github.com/zhy2on/42cursus_md)
+-->
