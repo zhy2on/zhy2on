@@ -1,5 +1,11 @@
 <div align="center">
-<img src="https://media2.giphy.com/media/U1rlk8zdcAwbm/giphy.gif?cid=790b761120a74bda8d2ad5744adda51121d6c1e5e0cabd52&rid=giphy.gif&ct=g" alt="potato" align="center" width="200">
+  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <br />
+  <br />
+</div>
+<div align="center">
+  <img src="https://media2.giphy.com/media/U1rlk8zdcAwbm/giphy.gif?cid=790b761120a74bda8d2ad5744adda51121d6c1e5e0cabd52&rid=giphy.gif&ct=g" alt="potato" align="center" width="200">
+  <br />
 </div>
 <hr>
 
