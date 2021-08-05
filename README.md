@@ -1,22 +1,17 @@
-<!--
-![header](https://capsule-render.vercel.app/api?type=waving&height=180&color=auto&text=zhy2on's%20%20github&fontSize=50&fontAlign=75&fontAlignY=30)
-✨ 코딩하는 감자 ✨ 
+<div align="center">
+<img src="https://github.com/fnky/fnky/raw/fnky/img/fan-1.gif" alt="Fan" align="center">
+</div>
 
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ... 
-- 🌱 I’m currently learning ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
--->
+<div align="center">
+<img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" align="center">
+</div>
+
+<div align="center">
+to my personal GitHub profile!
+</div>
+
+<hr>
+
 
 |![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhy2on&line_height=20&theme=dracula&show_icons=true&card_width=600&hide_border=1)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhy2on&layout=compact&theme=dracula&card_width=400&hide_border=1)](https://github.com/zhy2on?tab=repositories)|
 |:---:|:---:|
-
-<!--
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhy2on&repo=42cursus&theme=dark)](https://github.com/zhy2on/42cursus)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhy2on&repo=42cursus_md&theme=dark)](https://github.com/zhy2on/42cursus_md)
--->
