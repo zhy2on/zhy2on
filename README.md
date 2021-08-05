@@ -4,5 +4,5 @@
 </div>
 <hr>
 
-|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhy2on&line_height=20&theme=dracula&show_icons=true&card_width=600&hide_border=1)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhy2on&layout=compact&theme=dracula&card_width=400&hide_border=1)](https://github.com/zhy2on?tab=repositories)|
+|[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhy2on&line_height=20&theme=dracula&show_icons=true&card_width=600&hide_border=1)](https://github.com/zhy2on?tab=repositories)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhy2on&layout=compact&theme=dracula&card_width=400&hide_border=1)](https://github.com/zhy2on?tab=repositories)|
 |:---:|:---:|
