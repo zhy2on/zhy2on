@@ -3,7 +3,7 @@
 |:---:|:---:|:-----:|
 
 ## 42cursus (2021.05.12 ~ )
-[![jihoh's 42 stats](https://badge42.herokuapp.com/api/stats/jihoh?privacyName=true)](https://github.com/JaeSeoKim/badge42)
+[![jihoh's 42 stats](https://badge42.herokuapp.com/api/stats/jihoh?privacyName=true)](https://github.com/zhy2on/42cursus)
 
 
 |Circle|Project|Score|Date|
