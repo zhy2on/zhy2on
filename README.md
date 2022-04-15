@@ -8,6 +8,6 @@
   <summary>💫</summary>
   
   ## 42cursus (2021.05.12 ~ )
-[![jihoh's 42 stats](https://badge42.herokuapp.com/api/stats/jihoh?privacyName=true)](https://github.com/zhy2on/42cursus)
+![jihoh's 42 stats](https://badge42.vercel.app/api/v2/cl20ermdo001609jt58jpvos4/stats?cursusId=21&coalitionId=87)
 
 </details>
