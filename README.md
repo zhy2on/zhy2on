@@ -4,22 +4,3 @@
 
 ### Blog (۶•̀ᴗ•́)۶ ✍
  [<img src="https://user-images.githubusercontent.com/52701529/166095579-9c796e92-0eab-43c7-aebb-1fcd6a86dd7e.png" width="60" height="30">](https://velog.io/@zhy2on)
- 
-
-<details>
-  <summary>💫</summary>
-  
-  ## 42cursus (2021.05.12 ~ )
-[![jihoh's 42 stats](https://badge42.vercel.app/api/v2/cl20ermdo001609jt58jpvos4/stats?cursusId=21&coalitionId=87)](https://github.com/zhy2on/42cursus)
-
-</details>
-
-<!---
-<details>
-  <summary>Blogs (۶•̀ᴗ•́)۶ ✍ </summary>
-
-    - [<img src="https://user-images.githubusercontent.com/52701529/166095258-14c70509-a930-44e2-aa8f-2032dfc353f0.png" width="30">](https://velog.io/@zhy2on)
-  - [<img src="https://user-images.githubusercontent.com/52701529/166095507-f4f37850-c8d3-4255-9a3e-2925518cf36e.png" width="30" height="30">](https://zhy2on.github.io/)
-  
-</details>
---->
