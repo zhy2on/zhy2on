@@ -17,9 +17,7 @@
         <table>
           <tr>
             <td>
-              <a href="https://github.com/zhy2on?tab=repositories">
-                <img src="https://github-readme-stats.vercel.app/api?username=zhy2on&show_icons=true&theme=slateorange&hide_border=1" width="180"/>
-              </a>
+              <img src="https://github-readme-stats.vercel.app/api?username=zhy2on&show_icons=true&theme=slateorange&hide_border=1" width="180"/>
             </td>
             <td>
               <a href="https://solved.ac/ojh5940">
@@ -35,9 +33,7 @@
           <tr>
             <td>
               🏠
-              <a href="https://velog.io/@zhy2on">
-                <img src="https://github.com/user-attachments/assets/17b13eb7-8d7f-4683-a7a8-fe22d9ddb632" width="180"/>
-              </a>
+              <img src="https://github.com/user-attachments/assets/17b13eb7-8d7f-4683-a7a8-fe22d9ddb632" width="180"/>
             </td>
             <td>
               <a href="https://velog.io/@zhy2on">
