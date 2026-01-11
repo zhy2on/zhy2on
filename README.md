@@ -16,8 +16,32 @@
       <td align="center">
         <table>
           <tr>
-            <td>
-              <img src="https://github-readme-stats.vercel.app/api?username=zhy2on&show_icons=true&theme=slateorange&hide_border=1" width="180"/>
+            <td align="center">
+              <!-- Language -->
+              <img height="20" src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white">
+              <img height="20" src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
+              <img height="20" src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white">
+              <img height="20" src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">
+              <br>
+              <!-- Database -->
+              <img height="20" src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
+              <img height="20" src="https://img.shields.io/badge/mariaDB-003545?style=flat-square&logo=mariaDB&logoColor=white">
+              <img height="20" src="https://img.shields.io/badge/redis-FF4438?style=flat-square&logo=redis&logoColor=white">
+              <br>
+              <!-- Frontend -->
+              <img height="20" src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black">
+              <img height="20" src="https://img.shields.io/badge/vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white">
+              <br>
+              <!-- Backend -->
+              <img height="20" src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
+              <img height="20" src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
+              <br>
+              <!-- DevOps -->
+              <img height="20" src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
+              <img height="20" src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+              <img height="20" src="https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=amazonaws&logoColor=white">
+              <!-- Etc -->
+              <img height="20" src="https://img.shields.io/badge/Make-000000?style=flat-square&logo=gnu&logoColor=white">
             </td>
             <td>
               <a href="https://solved.ac/ojh5940">
