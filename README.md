@@ -34,9 +34,7 @@
               <img height="20" src="https://img.shields.io/badge/redis-FF4438?style=flat-square&logo=redis&logoColor=white">
               <br>
               <!-- Backend -->
-              <img height="20" src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
               <img height="20" src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
-              <br>
               <!-- DevOps -->
               <img height="20" src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white">
               <img height="20" src="https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=amazonaws&logoColor=white">
@@ -44,12 +42,16 @@
               <details>
                 <summary>more skills</summary>
                 <!-- Frontend -->
-                <img height="20" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
-                <img height="20" src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white">
+                <img height="20" src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black">
+                <img height="20" src="https://img.shields.io/badge/vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white">
                 <br>
-                <img height="20" src="https://img.shields.io/badge/Make-000000?style=flat-square&logo=gnu&logoColor=white">
+                <img height="20" src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
+                <img height="20" src="https://img.shields.io/badge/spring%20security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white">
                 <img height="20" src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
+                <br>
                 <img height="20" src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white">
+                <img height="20" src="https://img.shields.io/badge/Make-000000?style=flat-square&logo=gnu&logoColor=white">
+                <img height="20" src="https://img.shields.io/badge/github%20actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
               </details>
             </td>
           </tr>
