@@ -16,6 +16,11 @@
       <td align="center">
         <table>
           <tr>
+            <td>
+              <a href="https://solved.ac/ojh5940">
+                <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ojh5940" width="160"/>
+              </a>
+            </td>
             <td align="center">
               <!-- Language -->
               <img height="20" src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white">
@@ -42,11 +47,6 @@
               <img height="20" src="https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=amazonaws&logoColor=white">
               <!-- Etc -->
               <img height="20" src="https://img.shields.io/badge/Make-000000?style=flat-square&logo=gnu&logoColor=white">
-            </td>
-            <td>
-              <a href="https://solved.ac/ojh5940">
-                <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ojh5940" width="160"/>
-              </a>
             </td>
           </tr>
         </table>
