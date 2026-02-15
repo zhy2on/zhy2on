@@ -76,4 +76,14 @@
     </tr>
   </table>
 </div>
-<a href="https://velog.io/@zhy2on"><img src="https://img.shields.io/badge/zhy2on.log-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@zhy2on"/></a>
+
+<a href="https://velog.io/@zhy2on"> <img height="20"
+       style="display:inline-block;"
+       src="https://img.shields.io/badge/zhy2on.log-11B48A?style=flat-square&logo=velog&logoColor=white">
+</a>
+<a href="https://jet-count-39b.notion.site/27bb59401ba880fa86b7c4b18f377852?pvs=74"
+   style="text-decoration:none; display:inline-block;"> <img height="20"
+       style="display:inline-block;"
+       src="https://img.shields.io/badge/portfolio-4C6EF5?style=flat-square&logo=readme&logoColor=white">
+</a>
+
