@@ -84,6 +84,6 @@
 <a href="https://jet-count-39b.notion.site/27bb59401ba880fa86b7c4b18f377852?pvs=74"
    style="text-decoration:none; display:inline-block;"> <img height="20"
        style="display:inline-block;"
-       src="https://img.shields.io/badge/portfolio-4C6EF5?style=flat-square&logo=readme&logoColor=white">
+       src="https://img.shields.io/badge/resume-4C6EF5?style=flat-square&logo=readme&logoColor=white">
 </a>
 
