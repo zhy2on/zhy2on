@@ -1,83 +1,22 @@
-<!-- 전체 구조: 2행 2열 테이블 -->
 <div align="center">
-  <table>
-    <!-- 1행: 제목들 -->
-    <tr>
-      <td align="center" width="50%">
-        <span style="font-size: 24px;"><b>Hi there⎝㋡⎠I'm zhy2on</b></span>
-      </td>
-      <td align="center" width="50%">
-        <span style="font-size: 24px;"><b>Blog (۶•̀ᴗ•́)۶ ✍</b></span>
-      </td>
-    </tr>
-    <!-- 2행: 내부 콘텐츠 각 셀에 다시 테이블 -->
-    <tr>
-      <!-- 왼쪽 셀: GitHub stats 2개 -->
-      <td align="center">
-        <table>
-          <tr>
-            <td>
-              <a href="https://solved.ac/ojh5940">
-                <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ojh5940" width="160"/>
-              </a>
-            </td>
-            <td align="center">
-              <!-- Language -->
-              <img height="20" src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white">
-              <img height="20" src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
-              <img height="20" src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white">
-              <img height="20" src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">
-              <br>
-              <!-- Database -->
-              <img height="20" src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
-              <img height="20" src="https://img.shields.io/badge/mariaDB-003545?style=flat-square&logo=mariaDB&logoColor=white">
-              <img height="20" src="https://img.shields.io/badge/redis-FF4438?style=flat-square&logo=redis&logoColor=white">
-              <br>
-              <!-- Backend -->
-              <img height="20" src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
-              <!-- DevOps -->
-              <img height="20" src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white">
-              <img height="20" src="https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=amazonaws&logoColor=white">
-              <!-- Etc -->
-              <details>
-                <summary>more skills</summary>
-                <!-- Frontend -->
-                <img height="20" src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black">
-                <img height="20" src="https://img.shields.io/badge/vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white">
-                <br>
-                <img height="20" src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
-                <img height="20" src="https://img.shields.io/badge/spring%20security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white">
-                <img height="20" src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
-                <br>
-                <img height="20" src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white">
-                <img height="20" src="https://img.shields.io/badge/Make-000000?style=flat-square&logo=gnu&logoColor=white">
-                <img height="20" src="https://img.shields.io/badge/github%20actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
-              </details>
-            </td>
-          </tr>
-        </table>
-      </td>
-      <!-- 오른쪽 셀: 프로필 이미지 + Velog -->
-      <td align="center">
-        <table>
-          <tr>
-            <td>
-              🏠
-              <img src="https://github.com/user-attachments/assets/17b13eb7-8d7f-4683-a7a8-fe22d9ddb632" width="180"/>
-            </td>
-            <td>
-              <a href="https://velog.io/@zhy2on">
-                <img src="https://velog-readme-stats.vercel.app/api/list?name=zhy2on" width="300"/>
-              </a>
-            </td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</div>
 
-<a href="https://velog.io/@zhy2on"> <img height="20"
-       style="display:inline-block;"
-       src="https://img.shields.io/badge/zhy2on.log-11B48A?style=flat-square&logo=velog&logoColor=white">
-</a>
+<h3>Hi there ( ･ᴗ･ )੭ I'm zhy2on</h3>
+<sub>In-memory cache engine internals in C</sub><br>
+<sub>🔧 Working on <a href="https://github.com/naver/arcus-memcached/pulls?q=author%3Azhy2on">ARCUS</a> @ Jam2in</sub>
+<br><br>
+<img height="20" src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white">
+<img height="20" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
+<img height="20" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white">
+<img height="20" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+<img height="20" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
+<img height="20" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+<img height="20" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+<br><br>
+<img src="https://github.com/user-attachments/assets/17b13eb7-8d7f-4683-a7a8-fe22d9ddb632" height="120"/>
+<a href="https://velog.io/@zhy2on"><img src="https://velog-readme-stats.vercel.app/api/list?name=zhy2on" height="120"/></a>
+<br><br>
+<sub><b>🌱 Open Source Contributions</b></sub><br>
+<sub><b>apache/zookeeper</b> · Fix C client build and SSL tests on Ubuntu 26.04 <a href="https://github.com/apache/zookeeper/pull/2510">#2510</a></sub> <img height="12" src="https://img.shields.io/github/issues/detail/state/apache/zookeeper/2510?style=flat-square&label="><br>
+<sub><b>apache/zookeeper</b> · Remove Playwright browser cache and pin website CI <a href="https://github.com/apache/zookeeper/pull/2509">#2509</a></sub> <img height="12" src="https://img.shields.io/github/issues/detail/state/apache/zookeeper/2509?style=flat-square&label=">
+
+</div>
