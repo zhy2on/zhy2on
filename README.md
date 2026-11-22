@@ -1,8 +1,8 @@
 <div align="center">
 
-<h3>Hi there ( ･ᴗ･ )੭ I'm zhy2on</h3>
-<sub>In-memory cache engine internals in C</sub><br>
-<sub>🔧 Working on <a href="https://github.com/naver/arcus-memcached/pulls?q=author%3Azhy2on">ARCUS</a> @ Jam2in &nbsp;·&nbsp; ✍️ <a href="https://velog.io/@zhy2on">velog</a></sub>
+<h2>Hi there ( ･ᴗ･ )੭ I'm zhy2on</h2>
+In-memory cache engine internals in C<br>
+🔧 <a href="https://github.com/naver/arcus-memcached/pulls?q=author%3Azhy2on">ARCUS</a> @ Jam2in &nbsp;·&nbsp; ✍️ <a href="https://velog.io/@zhy2on">velog</a>
 <br><br>
 <img height="20" src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white">
 <img height="20" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
